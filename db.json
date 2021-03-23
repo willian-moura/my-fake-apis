@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "WILLIAN MOURA"
+      "cpf": "062.003.501-32"
+      "birthDate": "1998-05-14"
+      "email": "willian_98@outlook.com"
+      "gender": "male"
+      "specialNecessities": false
+      "cep": "79700-000"
+      "complement": "NENHUM"
+      "number": "1209"
+      "state": "MS"
+      "street": "IPIRANGA"
+      "telephone": "(67) 9 9607-5411"
+      "password": "12345"
+    }
+  ]
+}
